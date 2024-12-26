@@ -1,3 +1,4 @@
+
 # Introduction
 This repository is for **X-Linear Attention Networks for Image Captioning** (CVPR 2020). The original paper can be found [here](https://arxiv.org/pdf/2003.14080.pdf).
 
@@ -16,7 +17,6 @@ Please cite with the following BibTeX:
   <img src="images/framework.jpg" width="800"/>
 </p>
 
-
 ## Requirements
 * Python 3
 * CUDA 10
@@ -28,18 +28,26 @@ Please cite with the following BibTeX:
 * [coco-caption](https://github.com/ruotianluo/coco-caption)
 
 ## Data preparation
-1. Download the [bottom up features](https://github.com/peteanderson80/bottom-up-attention) and convert them to npz files
-```
-python2 tools/create_feats.py --infeats bottom_up_tsv --outfolder ./mscoco/feature/up_down_10_100
-```
+1. Download the [bottom up features](https://github.com/peteanderson80/bottom-up-attention) and convert them to npz files:
+   ```
+   python2 tools/create_feats.py --infeats bottom_up_tsv --outfolder ./mscoco/feature/up_down_10_100
+   ```
 
-2. Download the [annotations](https://drive.google.com/open?id=1i5YJRSZtpov0nOtRyfM0OS1n0tPCGiCS) into the mscoco folder. More details about data preparation can be referred to [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch)
+2. Download the [annotations](https://drive.google.com/open?id=1i5YJRSZtpov0nOtRyfM0OS1n0tPCGiCS) into the mscoco folder. More details about data preparation can be referred to [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch).
 
-3. Download [coco-caption](https://github.com/ruotianluo/coco-caption) and setup the path of __C.INFERENCE.COCO_PATH in lib/config.py
+3. Download [coco-caption](https://github.com/ruotianluo/coco-caption) and set the path of `__C.INFERENCE.COCO_PATH` in `lib/config.py`.
 
-4. The pretrained models and results can be downloaded [here](https://drive.google.com/open?id=1a7aINHtpQbIw5JbAc4yvC7I1V-tQSdzb).
+4. The pretrained models and results can be downloaded from the links below:
 
-5. The pretrained SENet-154 model can be downloaded [here](https://drive.google.com/file/d/1CrWJcdKLPmFYVdVNcQLviwKGtAREjarR/view?usp=sharing).
+   ### Cross Entropy Loss:
+   - **Pretrained Model**: [Download Link](https://drive.google.com/file/d/1lAMEvP49rR2CiF8kPamlY_MeF4OK_8sv/view?usp=drive_link)
+   - **Test**: [Test Results Link](https://drive.google.com/file/d/1PVyyb5mCaloRw3ayYtwiKQb-Q1Y7cmhQ/view?usp=drive_link)
+   - **Validation**: [Validation Results Link](https://drive.google.com/file/d/10ujptdUvpNBVFO-O_OOSEUgH5nv5P4UZ/view?usp=drive_link)
+
+   ### CIDEr Optimization Loss:
+   - **Pretrained Model**: [Download Link](https://drive.google.com/file/d/155UxpQH1cg2lIAUR-r55w0YU6lhee08f/view?usp=drive_link)
+   - **Test**: [Test Results Link](https://drive.google.com/file/d/1VWmNVno-fp_WpJ9T1hNgdRfHuRqzkwb8/view?usp=drive_link)
+   - **Validation**: [Validation Results Link]([https://drive.google.com/file/d/1EY1ONzFXSPw58sF_SkxYHJxoh2oJGMfr/view?usp=sharing](https://drive.google.com/file/d/1vdHRugxdcFYd4LtyGSEXJrTaWuCVAPVt/view?usp=drive_link))
 
 ## Training
 ### Train X-LAN model
@@ -48,7 +56,7 @@ bash experiments/xlan/train.sh
 ```
 
 ### Train X-LAN model using self critical
-Copy the pretrained model into experiments/xlan_rl/snapshot and run the script
+Copy the pretrained model into `experiments/xlan_rl/snapshot` and run the script:
 ```
 bash experiments/xlan_rl/train.sh
 ```
@@ -59,7 +67,7 @@ bash experiments/xtransformer/train.sh
 ```
 
 ### Train X-LAN transformer model using self critical
-Copy the pretrained model into experiments/xtransformer_rl/snapshot and run the script
+Copy the pretrained model into `experiments/xtransformer_rl/snapshot` and run the script:
 ```
 bash experiments/xtransformer_rl/train.sh
 ```
@@ -70,4 +78,4 @@ CUDA_VISIBLE_DEVICES=0 python3 main_test.py --folder experiments/model_folder --
 ```
 
 ## Acknowledgements
-Thanks the contribution of [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch) and awesome PyTorch team.
+Thanks to the contribution of [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch) and the awesome PyTorch team.

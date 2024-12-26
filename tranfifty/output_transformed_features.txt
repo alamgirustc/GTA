@@ -1,0 +1,364 @@
+RoI 1:
+x (Original): 0.0000	y (Original): 0.5847	w (Original): 0.6450	h (Original): 1.0000	Aspect Ratio (Original): 0.1826	Area (Original): 0.6596	Perimeter (Original): 0.7487	Centroid_x (Original): 0.2266	Centroid_y (Original): 0.7156	Compactness (Original): 0.9962
+x (Translated): 0.0000	y (Translated): 0.5847	w (Translated): 0.6450	h (Translated): 1.0000	Aspect Ratio (Translated): 0.1826	Area (Translated): 0.6596	Perimeter (Translated): 0.7487	Centroid_x (Translated): 0.2266	Centroid_y (Translated): 0.7156	Compactness (Translated): 0.9962
+x (Rotated): 0.0390	y (Rotated): 0.5880	w (Rotated): 0.6450	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.1826	Area (Rotated): 0.6596	Perimeter (Rotated): 0.7487	Centroid_x (Rotated): 0.2308	Centroid_y (Rotated): 0.7278	Compactness (Rotated): 0.9962
+x (Scaled): 0.0000	y (Scaled): 0.5847	w (Scaled): 0.6450	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.1826	Area (Scaled): 0.6596	Perimeter (Scaled): 0.7487	Centroid_x (Scaled): 0.2556	Centroid_y (Scaled): 0.7332	Compactness (Scaled): 0.9962
+x (Sheared): 0.0296	y (Sheared): 0.5404	w (Sheared): 0.6450	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.1826	Area (Sheared): 0.6596	Perimeter (Sheared): 0.7487	Centroid_x (Sheared): 0.2102	Centroid_y (Sheared): 0.6768	Compactness (Sheared): 0.9962
+
+RoI 2:
+x (Original): 0.0000	y (Original): 0.3443	w (Original): 0.5169	h (Original): 1.0000	Aspect Ratio (Original): 0.1463	Area (Original): 0.5367	Perimeter (Original): 0.6579	Centroid_x (Original): 0.1815	Centroid_y (Original): 0.5447	Compactness (Original): 0.9665
+x (Translated): 0.0000	y (Translated): 0.3443	w (Translated): 0.5169	h (Translated): 1.0000	Aspect Ratio (Translated): 0.1463	Area (Translated): 0.5367	Perimeter (Translated): 0.6579	Centroid_x (Translated): 0.1815	Centroid_y (Translated): 0.5447	Compactness (Translated): 0.9665
+x (Rotated): 0.0312	y (Rotated): 0.3012	w (Rotated): 0.5169	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.1463	Area (Rotated): 0.5367	Perimeter (Rotated): 0.6579	Centroid_x (Rotated): 0.1849	Centroid_y (Rotated): 0.5220	Compactness (Rotated): 0.9665
+x (Scaled): 0.0000	y (Scaled): 0.3443	w (Scaled): 0.5169	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.1463	Area (Scaled): 0.5367	Perimeter (Scaled): 0.6579	Centroid_x (Scaled): 0.2048	Centroid_y (Scaled): 0.5716	Compactness (Scaled): 0.9665
+x (Sheared): 0.0121	y (Sheared): 0.3167	w (Sheared): 0.5169	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.1463	Area (Sheared): 0.5367	Perimeter (Sheared): 0.6579	Centroid_x (Sheared): 0.1523	Centroid_y (Sheared): 0.5145	Compactness (Sheared): 0.9665
+
+RoI 3:
+x (Original): 0.4710	y (Original): 0.2138	w (Original): 0.5149	h (Original): 0.7896	Aspect Ratio (Original): 0.1791	Area (Original): 0.4395	Perimeter (Original): 0.5637	Centroid_x (Original): 0.5020	Centroid_y (Original): 0.3887	Compactness (Original): 0.9947
+x (Translated): 0.4710	y (Translated): 0.2138	w (Translated): 0.5149	h (Translated): 0.7896	Aspect Ratio (Translated): 0.1791	Area (Translated): 0.4395	Perimeter (Translated): 0.5637	Centroid_x (Translated): 0.5020	Centroid_y (Translated): 0.3887	Compactness (Translated): 0.9947
+x (Rotated): 0.4729	y (Rotated): 0.1566	w (Rotated): 0.5149	h (Rotated): 0.7896	Aspect Ratio (Rotated): 0.1791	Area (Rotated): 0.4395	Perimeter (Rotated): 0.5637	Centroid_x (Rotated): 0.4934	Centroid_y (Rotated): 0.3539	Compactness (Rotated): 0.9947
+x (Scaled): 0.4710	y (Scaled): 0.2138	w (Scaled): 0.5149	h (Scaled): 0.7896	Aspect Ratio (Scaled): 0.1791	Area (Scaled): 0.4395	Perimeter (Scaled): 0.5637	Centroid_x (Scaled): 0.5059	Centroid_y (Scaled): 0.4123	Compactness (Scaled): 0.9947
+x (Sheared): 0.4524	y (Sheared): 0.2527	w (Sheared): 0.5149	h (Sheared): 0.7896	Aspect Ratio (Sheared): 0.1791	Area (Sheared): 0.4395	Perimeter (Sheared): 0.5637	Centroid_x (Sheared): 0.4681	Centroid_y (Sheared): 0.4082	Compactness (Sheared): 0.9947
+
+RoI 4:
+x (Original): 0.9662	y (Original): 0.4471	w (Original): 0.9518	h (Original): 0.3109	Aspect Ratio (Original): 0.5874	Area (Original): 0.4275	Perimeter (Original): 0.6615	Centroid_x (Original): 0.9930	Centroid_y (Original): 0.4111	Compactness (Original): 0.6437
+x (Translated): 0.9662	y (Translated): 0.4471	w (Translated): 0.9518	h (Translated): 0.3109	Aspect Ratio (Translated): 0.5874	Area (Translated): 0.4275	Perimeter (Translated): 0.6615	Centroid_x (Translated): 0.9930	Centroid_y (Translated): 0.4111	Compactness (Translated): 0.6437
+x (Rotated): 1.0000	y (Rotated): 0.5142	w (Rotated): 0.9518	h (Rotated): 0.3109	Aspect Ratio (Rotated): 0.5874	Area (Rotated): 0.4275	Perimeter (Rotated): 0.6615	Centroid_x (Rotated): 1.0000	Centroid_y (Rotated): 0.4641	Compactness (Rotated): 0.6437
+x (Scaled): 0.9662	y (Scaled): 0.4471	w (Scaled): 0.9518	h (Scaled): 0.3109	Aspect Ratio (Scaled): 0.5874	Area (Scaled): 0.4275	Perimeter (Scaled): 0.6615	Centroid_x (Scaled): 0.9964	Centroid_y (Scaled): 0.4063	Compactness (Scaled): 0.6437
+x (Sheared): 0.9424	y (Sheared): 0.5302	w (Sheared): 0.9518	h (Sheared): 0.3109	Aspect Ratio (Sheared): 0.5874	Area (Sheared): 0.4275	Perimeter (Sheared): 0.6615	Centroid_x (Sheared): 0.9747	Centroid_y (Sheared): 0.4732	Compactness (Sheared): 0.6437
+
+RoI 5:
+x (Original): 0.0000	y (Original): 0.1781	w (Original): 0.5154	h (Original): 0.7601	Aspect Ratio (Original): 0.1850	Area (Original): 0.4266	Perimeter (Original): 0.5510	Centroid_x (Original): 0.1810	Centroid_y (Original): 0.3546	Compactness (Original): 0.9970
+x (Translated): 0.0000	y (Translated): 0.1781	w (Translated): 0.5154	h (Translated): 0.7601	Aspect Ratio (Translated): 0.1850	Area (Translated): 0.4266	Perimeter (Translated): 0.5510	Centroid_x (Translated): 0.1810	Centroid_y (Translated): 0.3546	Compactness (Translated): 0.9970
+x (Rotated): 0.0649	y (Rotated): 0.1191	w (Rotated): 0.5154	h (Rotated): 0.7601	Aspect Ratio (Rotated): 0.1850	Area (Rotated): 0.4266	Perimeter (Rotated): 0.5510	Centroid_x (Rotated): 0.2080	Centroid_y (Rotated): 0.3179	Compactness (Rotated): 0.9970
+x (Scaled): 0.0000	y (Scaled): 0.1781	w (Scaled): 0.5154	h (Scaled): 0.7601	Aspect Ratio (Scaled): 0.1850	Area (Scaled): 0.4266	Perimeter (Scaled): 0.5510	Centroid_x (Scaled): 0.2043	Centroid_y (Scaled): 0.3783	Compactness (Scaled): 0.9970
+x (Sheared): 0.0000	y (Sheared): 0.1621	w (Sheared): 0.5154	h (Sheared): 0.7601	Aspect Ratio (Sheared): 0.1850	Area (Sheared): 0.4266	Perimeter (Sheared): 0.5510	Centroid_x (Sheared): 0.1431	Centroid_y (Sheared): 0.3340	Compactness (Sheared): 0.9970
+
+RoI 6:
+x (Original): 0.2535	y (Original): 0.1194	w (Original): 0.8899	h (Original): 0.9446	Aspect Ratio (Original): 0.2642	Area (Original): 0.8545	Perimeter (Original): 0.8976	Centroid_x (Original): 0.4854	Centroid_y (Original): 0.3681	Compactness (Original): 0.9772
+x (Translated): 0.2535	y (Translated): 0.1194	w (Translated): 0.8899	h (Translated): 0.9446	Aspect Ratio (Translated): 0.2642	Area (Translated): 0.8545	Perimeter (Translated): 0.8976	Centroid_x (Translated): 0.4854	Centroid_y (Translated): 0.3681	Compactness (Translated): 0.9772
+x (Rotated): 0.2834	y (Rotated): 0.1981	w (Rotated): 0.8899	h (Rotated): 0.9446	Aspect Ratio (Rotated): 0.2642	Area (Rotated): 0.8545	Perimeter (Rotated): 0.8976	Centroid_x (Rotated): 0.4791	Centroid_y (Rotated): 0.4310	Compactness (Rotated): 0.9772
+x (Scaled): 0.2535	y (Scaled): 0.1194	w (Scaled): 0.8899	h (Scaled): 0.9446	Aspect Ratio (Scaled): 0.2642	Area (Scaled): 0.8545	Perimeter (Scaled): 0.8976	Centroid_x (Scaled): 0.5151	Centroid_y (Scaled): 0.4015	Compactness (Scaled): 0.9772
+x (Sheared): 0.2378	y (Sheared): 0.1383	w (Sheared): 0.8899	h (Sheared): 0.9446	Aspect Ratio (Sheared): 0.2642	Area (Sheared): 0.8545	Perimeter (Sheared): 0.8976	Centroid_x (Sheared): 0.4465	Centroid_y (Sheared): 0.3693	Compactness (Sheared): 0.9772
+
+RoI 7:
+x (Original): 0.3278	y (Original): 0.3622	w (Original): 0.3981	h (Original): 0.8194	Aspect Ratio (Original): 0.1355	Area (Original): 0.3560	Perimeter (Original): 0.4941	Centroid_x (Original): 0.3633	Centroid_y (Original): 0.5032	Compactness (Original): 0.9500
+x (Translated): 0.3278	y (Translated): 0.3622	w (Translated): 0.3981	h (Translated): 0.8194	Aspect Ratio (Translated): 0.1355	Area (Translated): 0.3560	Perimeter (Translated): 0.4941	Centroid_x (Translated): 0.3633	Centroid_y (Translated): 0.5032	Compactness (Translated): 0.9500
+x (Rotated): 0.3363	y (Rotated): 0.2684	w (Rotated): 0.3981	h (Rotated): 0.8194	Aspect Ratio (Rotated): 0.1355	Area (Rotated): 0.3560	Perimeter (Rotated): 0.4941	Centroid_x (Rotated): 0.3609	Centroid_y (Rotated): 0.4432	Compactness (Rotated): 0.9500
+x (Scaled): 0.3278	y (Scaled): 0.3622	w (Scaled): 0.3981	h (Scaled): 0.8194	Aspect Ratio (Scaled): 0.1355	Area (Scaled): 0.3560	Perimeter (Scaled): 0.4941	Centroid_x (Scaled): 0.3679	Centroid_y (Scaled): 0.5222	Compactness (Scaled): 0.9500
+x (Sheared): 0.3265	y (Sheared): 0.3733	w (Sheared): 0.3981	h (Sheared): 0.8194	Aspect Ratio (Sheared): 0.1355	Area (Sheared): 0.3560	Perimeter (Sheared): 0.4941	Centroid_x (Sheared): 0.3362	Centroid_y (Sheared): 0.5041	Compactness (Sheared): 0.9500
+
+RoI 8:
+x (Original): 0.4861	y (Original): 0.2499	w (Original): 0.5586	h (Original): 0.8419	Aspect Ratio (Original): 0.1837	Area (Original): 0.5002	Perimeter (Original): 0.6177	Centroid_x (Original): 0.5276	Centroid_y (Original): 0.4301	Compactness (Original): 0.9966
+x (Translated): 0.4861	y (Translated): 0.2499	w (Translated): 0.5586	h (Translated): 0.8419	Aspect Ratio (Translated): 0.1837	Area (Translated): 0.5002	Perimeter (Translated): 0.6177	Centroid_x (Translated): 0.5276	Centroid_y (Translated): 0.4301	Compactness (Translated): 0.9966
+x (Rotated): 0.4814	y (Rotated): 0.2110	w (Rotated): 0.5586	h (Rotated): 0.8419	Aspect Ratio (Rotated): 0.1837	Area (Rotated): 0.5002	Perimeter (Rotated): 0.6177	Centroid_x (Rotated): 0.5131	Centroid_y (Rotated): 0.4089	Compactness (Rotated): 0.9966
+x (Scaled): 0.4861	y (Scaled): 0.2499	w (Scaled): 0.5586	h (Scaled): 0.8419	Aspect Ratio (Scaled): 0.1837	Area (Scaled): 0.5002	Perimeter (Scaled): 0.6177	Centroid_x (Scaled): 0.5329	Centroid_y (Scaled): 0.4543	Compactness (Scaled): 0.9966
+x (Sheared): 0.4695	y (Sheared): 0.2882	w (Sheared): 0.5586	h (Sheared): 0.8419	Aspect Ratio (Sheared): 0.1837	Area (Sheared): 0.5002	Perimeter (Sheared): 0.6177	Centroid_x (Sheared): 0.4958	Centroid_y (Sheared): 0.4488	Compactness (Sheared): 0.9966
+
+RoI 9:
+x (Original): 0.1930	y (Original): 0.3524	w (Original): 0.2387	h (Original): 0.7393	Aspect Ratio (Original): 0.0920	Area (Original): 0.2031	Perimeter (Original): 0.3459	Centroid_x (Original): 0.2155	Centroid_y (Original): 0.4722	Compactness (Original): 0.8322
+x (Translated): 0.1930	y (Translated): 0.3524	w (Translated): 0.2387	h (Translated): 0.7393	Aspect Ratio (Translated): 0.0920	Area (Translated): 0.2031	Perimeter (Translated): 0.3459	Centroid_x (Translated): 0.2155	Centroid_y (Translated): 0.4722	Compactness (Translated): 0.8322
+x (Rotated): 0.2200	y (Rotated): 0.1995	w (Rotated): 0.2387	h (Rotated): 0.7393	Aspect Ratio (Rotated): 0.0920	Area (Rotated): 0.2031	Perimeter (Rotated): 0.3459	Centroid_x (Rotated): 0.2293	Centroid_y (Rotated): 0.3693	Compactness (Rotated): 0.8322
+x (Scaled): 0.1930	y (Scaled): 0.3524	w (Scaled): 0.2387	h (Scaled): 0.7393	Aspect Ratio (Scaled): 0.0920	Area (Scaled): 0.2031	Perimeter (Scaled): 0.3459	Centroid_x (Scaled): 0.2183	Centroid_y (Scaled): 0.4883	Compactness (Scaled): 0.8322
+x (Sheared): 0.1971	y (Sheared): 0.3478	w (Sheared): 0.2387	h (Sheared): 0.7393	Aspect Ratio (Sheared): 0.0920	Area (Sheared): 0.2031	Perimeter (Sheared): 0.3459	Centroid_x (Sheared): 0.1869	Centroid_y (Sheared): 0.4628	Compactness (Sheared): 0.8322
+
+RoI 10:
+x (Original): 0.3645	y (Original): 0.1762	w (Original): 1.0000	h (Original): 1.0000	Aspect Ratio (Original): 0.2831	Area (Original): 1.0000	Perimeter (Original): 1.0000	Centroid_x (Original): 0.5997	Centroid_y (Original): 0.4251	Compactness (Original): 0.9634
+x (Translated): 0.3645	y (Translated): 0.1762	w (Translated): 1.0000	h (Translated): 1.0000	Aspect Ratio (Translated): 0.2831	Area (Translated): 1.0000	Perimeter (Translated): 1.0000	Centroid_x (Translated): 0.5997	Centroid_y (Translated): 0.4251	Compactness (Translated): 0.9634
+x (Rotated): 0.3794	y (Rotated): 0.2963	w (Rotated): 1.0000	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.2831	Area (Rotated): 1.0000	Perimeter (Rotated): 1.0000	Centroid_x (Rotated): 0.5810	Centroid_y (Rotated): 0.5185	Compactness (Rotated): 0.9634
+x (Scaled): 0.3645	y (Scaled): 0.1762	w (Scaled): 1.0000	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.2831	Area (Scaled): 1.0000	Perimeter (Scaled): 1.0000	Centroid_x (Scaled): 0.6299	Centroid_y (Scaled): 0.4586	Compactness (Scaled): 0.9634
+x (Sheared): 0.3480	y (Sheared): 0.2048	w (Sheared): 1.0000	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.2831	Area (Sheared): 1.0000	Perimeter (Sheared): 1.0000	Centroid_x (Sheared): 0.5646	Centroid_y (Sheared): 0.4333	Compactness (Sheared): 0.9634
+
+RoI 11:
+x (Original): 0.6177	y (Original): 0.4695	w (Original): 0.5970	h (Original): 0.6057	Aspect Ratio (Original): 0.2531	Area (Original): 0.4119	Perimeter (Original): 0.5405	Centroid_x (Original): 0.6308	Centroid_y (Original): 0.5155	Compactness (Original): 0.9842
+x (Translated): 0.6177	y (Translated): 0.4695	w (Translated): 0.5970	h (Translated): 0.6057	Aspect Ratio (Translated): 0.2531	Area (Translated): 0.4119	Perimeter (Translated): 0.5405	Centroid_x (Translated): 0.6308	Centroid_y (Translated): 0.5155	Compactness (Translated): 0.9842
+x (Rotated): 0.6321	y (Rotated): 0.4326	w (Rotated): 0.5970	h (Rotated): 0.6057	Aspect Ratio (Rotated): 0.2531	Area (Rotated): 0.4119	Perimeter (Rotated): 0.5405	Centroid_x (Rotated): 0.6307	Centroid_y (Rotated): 0.4957	Compactness (Rotated): 0.9842
+x (Scaled): 0.6177	y (Scaled): 0.4695	w (Scaled): 0.5970	h (Scaled): 0.6057	Aspect Ratio (Scaled): 0.2531	Area (Scaled): 0.4119	Perimeter (Scaled): 0.5405	Centroid_x (Scaled): 0.6325	Centroid_y (Scaled): 0.5216	Compactness (Scaled): 0.9842
+x (Sheared): 0.6112	y (Sheared): 0.5086	w (Sheared): 0.5970	h (Sheared): 0.6057	Aspect Ratio (Sheared): 0.2531	Area (Sheared): 0.4119	Perimeter (Sheared): 0.5405	Centroid_x (Sheared): 0.6112	Centroid_y (Sheared): 0.5415	Compactness (Sheared): 0.9842
+
+RoI 12:
+x (Original): 0.4215	y (Original): 0.2588	w (Original): 0.4859	h (Original): 0.8471	Aspect Ratio (Original): 0.1596	Area (Original): 0.4409	Perimeter (Original): 0.5685	Centroid_x (Original): 0.4580	Centroid_y (Original): 0.4380	Compactness (Original): 0.9814
+x (Translated): 0.4215	y (Translated): 0.2588	w (Translated): 0.4859	h (Translated): 0.8471	Aspect Ratio (Translated): 0.1596	Area (Translated): 0.4409	Perimeter (Translated): 0.5685	Centroid_x (Translated): 0.4580	Centroid_y (Translated): 0.4380	Compactness (Translated): 0.9814
+x (Rotated): 0.4197	y (Rotated): 0.1955	w (Rotated): 0.4859	h (Rotated): 0.8471	Aspect Ratio (Rotated): 0.1596	Area (Rotated): 0.4409	Perimeter (Rotated): 0.5685	Centroid_x (Rotated): 0.4470	Centroid_y (Rotated): 0.3994	Compactness (Rotated): 0.9814
+x (Scaled): 0.4215	y (Scaled): 0.2588	w (Scaled): 0.4859	h (Scaled): 0.8471	Aspect Ratio (Scaled): 0.1596	Area (Scaled): 0.4409	Perimeter (Scaled): 0.5685	Centroid_x (Scaled): 0.4627	Centroid_y (Scaled): 0.4621	Compactness (Scaled): 0.9814
+x (Sheared): 0.4084	y (Sheared): 0.2886	w (Sheared): 0.4859	h (Sheared): 0.8471	Aspect Ratio (Sheared): 0.1596	Area (Sheared): 0.4409	Perimeter (Sheared): 0.5685	Centroid_x (Sheared): 0.4262	Centroid_y (Sheared): 0.4506	Compactness (Sheared): 0.9814
+
+RoI 13:
+x (Original): 0.1027	y (Original): 0.4278	w (Original): 0.0563	h (Original): 0.2485	Aspect Ratio (Original): 0.0793	Area (Original): 0.0000	Perimeter (Original): 0.0000	Centroid_x (Original): 0.0898	Centroid_y (Original): 0.3787	Compactness (Original): 0.7766
+x (Translated): 0.1027	y (Translated): 0.4278	w (Translated): 0.0563	h (Translated): 0.2485	Aspect Ratio (Translated): 0.0793	Area (Translated): 0.0000	Perimeter (Translated): 0.0000	Centroid_x (Translated): 0.0898	Centroid_y (Translated): 0.3787	Compactness (Translated): 0.7766
+x (Rotated): 0.1990	y (Rotated): 0.1854	w (Rotated): 0.0563	h (Rotated): 0.2485	Aspect Ratio (Rotated): 0.0793	Area (Rotated): 0.0000	Perimeter (Rotated): 0.0000	Centroid_x (Rotated): 0.1570	Centroid_y (Rotated): 0.2091	Compactness (Rotated): 0.7766
+x (Scaled): 0.1027	y (Scaled): 0.4278	w (Scaled): 0.0563	h (Scaled): 0.2485	Aspect Ratio (Scaled): 0.0793	Area (Scaled): 0.0000	Perimeter (Scaled): 0.0000	Centroid_x (Scaled): 0.0882	Centroid_y (Scaled): 0.3721	Compactness (Scaled): 0.7766
+x (Sheared): 0.1163	y (Sheared): 0.4069	w (Sheared): 0.0563	h (Sheared): 0.2485	Aspect Ratio (Sheared): 0.0793	Area (Sheared): 0.0000	Perimeter (Sheared): 0.0000	Centroid_x (Sheared): 0.0643	Centroid_y (Sheared): 0.3660	Compactness (Sheared): 0.7766
+
+RoI 14:
+x (Original): 0.7562	y (Original): 0.6642	w (Original): 0.7968	h (Original): 0.8539	Aspect Ratio (Original): 0.2572	Area (Original): 0.7096	Perimeter (Original): 0.7916	Centroid_x (Original): 0.7954	Centroid_y (Original): 0.7283	Compactness (Original): 0.9817
+x (Translated): 0.7562	y (Translated): 0.6642	w (Translated): 0.7968	h (Translated): 0.8539	Aspect Ratio (Translated): 0.2572	Area (Translated): 0.7096	Perimeter (Translated): 0.7916	Centroid_x (Translated): 0.7954	Centroid_y (Translated): 0.7283	Compactness (Translated): 0.9817
+x (Rotated): 0.7305	y (Rotated): 0.7117	w (Rotated): 0.7968	h (Rotated): 0.8539	Aspect Ratio (Rotated): 0.2572	Area (Rotated): 0.7096	Perimeter (Rotated): 0.7916	Centroid_x (Rotated): 0.7625	Centroid_y (Rotated): 0.7719	Compactness (Rotated): 0.9817
+x (Scaled): 0.7562	y (Scaled): 0.6642	w (Scaled): 0.7968	h (Scaled): 0.8539	Aspect Ratio (Scaled): 0.2572	Area (Scaled): 0.7096	Perimeter (Scaled): 0.7916	Centroid_x (Scaled): 0.8004	Centroid_y (Scaled): 0.7369	Compactness (Scaled): 0.9817
+x (Sheared): 0.7577	y (Sheared): 0.7065	w (Sheared): 0.7968	h (Sheared): 0.8539	Aspect Ratio (Sheared): 0.2572	Area (Sheared): 0.7096	Perimeter (Sheared): 0.7916	Centroid_x (Sheared): 0.7871	Centroid_y (Sheared): 0.7558	Compactness (Sheared): 0.9817
+
+RoI 15:
+x (Original): 0.6873	y (Original): 0.4727	w (Original): 0.7910	h (Original): 1.0000	Aspect Ratio (Original): 0.2239	Area (Original): 0.7995	Perimeter (Original): 0.8520	Centroid_x (Original): 0.7463	Centroid_y (Original): 0.6359	Compactness (Original): 0.9970
+x (Translated): 0.6873	y (Translated): 0.4727	w (Translated): 0.7910	h (Translated): 1.0000	Aspect Ratio (Translated): 0.2239	Area (Translated): 0.7995	Perimeter (Translated): 0.8520	Centroid_x (Translated): 0.7463	Centroid_y (Translated): 0.6359	Compactness (Translated): 0.9970
+x (Rotated): 0.6493	y (Rotated): 0.5245	w (Rotated): 0.7910	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.2239	Area (Rotated): 0.7995	Perimeter (Rotated): 0.8520	Centroid_x (Rotated): 0.7038	Centroid_y (Rotated): 0.6823	Compactness (Rotated): 0.9970
+x (Scaled): 0.6873	y (Scaled): 0.4727	w (Scaled): 0.7910	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.2239	Area (Scaled): 0.7995	Perimeter (Scaled): 0.8520	Centroid_x (Scaled): 0.7539	Centroid_y (Scaled): 0.6579	Compactness (Scaled): 0.9970
+x (Sheared): 0.6779	y (Sheared): 0.5200	w (Sheared): 0.7910	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.2239	Area (Sheared): 0.7995	Perimeter (Sheared): 0.8520	Centroid_x (Sheared): 0.7277	Centroid_y (Sheared): 0.6620	Compactness (Sheared): 0.9970
+
+RoI 16:
+x (Original): 0.9092	y (Original): 0.9032	w (Original): 0.9219	h (Original): 0.9232	Aspect Ratio (Original): 0.2788	Area (Original): 0.8681	Perimeter (Original): 0.9108	Centroid_x (Original): 0.9436	Centroid_y (Original): 0.9191	Compactness (Original): 0.9667
+x (Translated): 0.9092	y (Translated): 0.9032	w (Translated): 0.9219	h (Translated): 0.9232	Aspect Ratio (Translated): 0.2788	Area (Translated): 0.8681	Perimeter (Translated): 0.9108	Centroid_x (Translated): 0.9436	Centroid_y (Translated): 0.9191	Compactness (Translated): 0.9667
+x (Rotated): 0.8622	y (Rotated): 1.0000	w (Rotated): 0.9219	h (Rotated): 0.9232	Aspect Ratio (Rotated): 0.2788	Area (Rotated): 0.8681	Perimeter (Rotated): 0.9108	Centroid_x (Rotated): 0.8942	Centroid_y (Rotated): 1.0000	Compactness (Rotated): 0.9667
+x (Scaled): 0.9092	y (Scaled): 0.9032	w (Scaled): 0.9219	h (Scaled): 0.9232	Aspect Ratio (Scaled): 0.2788	Area (Scaled): 0.8681	Perimeter (Scaled): 0.9108	Centroid_x (Scaled): 0.9481	Centroid_y (Scaled): 0.9212	Compactness (Scaled): 0.9667
+x (Sheared): 0.9212	y (Sheared): 0.9476	w (Sheared): 0.9219	h (Sheared): 0.9232	Aspect Ratio (Sheared): 0.2788	Area (Sheared): 0.8681	Perimeter (Sheared): 0.9108	Centroid_x (Sheared): 0.9489	Centroid_y (Sheared): 0.9505	Compactness (Sheared): 0.9667
+
+RoI 17:
+x (Original): 0.9330	y (Original): 0.6199	w (Original): 0.9711	h (Original): 0.7911	Aspect Ratio (Original): 0.3317	Area (Original): 0.8099	Perimeter (Original): 0.8873	Centroid_x (Original): 0.9772	Centroid_y (Original): 0.6780	Compactness (Original): 0.9197
+x (Translated): 0.9330	y (Translated): 0.6199	w (Translated): 0.9711	h (Translated): 0.7911	Aspect Ratio (Translated): 0.3317	Area (Translated): 0.8099	Perimeter (Translated): 0.8873	Centroid_x (Translated): 0.9772	Centroid_y (Translated): 0.6780	Compactness (Translated): 0.9197
+x (Rotated): 0.9046	y (Rotated): 0.7229	w (Rotated): 0.9711	h (Rotated): 0.7911	Aspect Ratio (Rotated): 0.3317	Area (Rotated): 0.8099	Perimeter (Rotated): 0.8873	Centroid_x (Rotated): 0.9393	Centroid_y (Rotated): 0.7607	Compactness (Rotated): 0.9197
+x (Scaled): 0.9330	y (Scaled): 0.6199	w (Scaled): 0.9711	h (Scaled): 0.7911	Aspect Ratio (Scaled): 0.3317	Area (Scaled): 0.8099	Perimeter (Scaled): 0.8873	Centroid_x (Scaled): 0.9828	Centroid_y (Scaled): 0.6858	Compactness (Scaled): 0.9197
+x (Sheared): 0.9233	y (Sheared): 0.6869	w (Sheared): 0.9711	h (Sheared): 0.7911	Aspect Ratio (Sheared): 0.3317	Area (Sheared): 0.8099	Perimeter (Sheared): 0.8873	Centroid_x (Sheared): 0.9678	Centroid_y (Sheared): 0.7237	Compactness (Sheared): 0.9197
+
+RoI 18:
+x (Original): 0.7312	y (Original): 0.3749	w (Original): 0.6902	h (Original): 0.1988	Aspect Ratio (Original): 0.5323	Area (Original): 0.2402	Perimeter (Original): 0.4268	Centroid_x (Original): 0.7409	Centroid_y (Original): 0.3262	Compactness (Original): 0.7017
+x (Translated): 0.7312	y (Translated): 0.3749	w (Translated): 0.6902	h (Translated): 0.1988	Aspect Ratio (Translated): 0.5323	Area (Translated): 0.2402	Perimeter (Translated): 0.4268	Centroid_x (Translated): 0.7409	Centroid_y (Translated): 0.3262	Compactness (Translated): 0.7017
+x (Rotated): 0.7943	y (Rotated): 0.3455	w (Rotated): 0.6902	h (Rotated): 0.1988	Aspect Ratio (Rotated): 0.5323	Area (Rotated): 0.2402	Perimeter (Rotated): 0.4268	Centroid_x (Rotated): 0.7735	Centroid_y (Rotated): 0.3088	Compactness (Rotated): 0.7017
+x (Scaled): 0.7312	y (Scaled): 0.3749	w (Scaled): 0.6902	h (Scaled): 0.1988	Aspect Ratio (Scaled): 0.5323	Area (Scaled): 0.2402	Perimeter (Scaled): 0.4268	Centroid_x (Scaled): 0.7421	Centroid_y (Scaled): 0.3196	Compactness (Scaled): 0.7017
+x (Sheared): 0.7127	y (Sheared): 0.4343	w (Sheared): 0.6902	h (Sheared): 0.1988	Aspect Ratio (Sheared): 0.5323	Area (Sheared): 0.2402	Perimeter (Sheared): 0.4268	Centroid_x (Sheared): 0.7171	Centroid_y (Sheared): 0.3718	Compactness (Sheared): 0.7017
+
+RoI 19:
+x (Original): 0.1035	y (Original): 0.4367	w (Original): 0.0552	h (Original): 0.2732	Aspect Ratio (Original): 0.0742	Area (Original): 0.0026	Perimeter (Original): 0.0101	Centroid_x (Original): 0.0899	Centroid_y (Original): 0.3925	Compactness (Original): 0.7502
+x (Translated): 0.1035	y (Translated): 0.4367	w (Translated): 0.0552	h (Translated): 0.2732	Aspect Ratio (Translated): 0.0742	Area (Translated): 0.0026	Perimeter (Translated): 0.0101	Centroid_x (Translated): 0.0899	Centroid_y (Translated): 0.3925	Compactness (Translated): 0.7502
+x (Rotated): 0.1961	y (Rotated): 0.1955	w (Rotated): 0.0552	h (Rotated): 0.2732	Aspect Ratio (Rotated): 0.0742	Area (Rotated): 0.0026	Perimeter (Rotated): 0.0101	Centroid_x (Rotated): 0.1546	Centroid_y (Rotated): 0.2238	Compactness (Rotated): 0.7502
+x (Scaled): 0.1035	y (Scaled): 0.4367	w (Scaled): 0.0552	h (Scaled): 0.2732	Aspect Ratio (Scaled): 0.0742	Area (Scaled): 0.0026	Perimeter (Scaled): 0.0101	Centroid_x (Scaled): 0.0882	Centroid_y (Scaled): 0.3865	Compactness (Scaled): 0.7502
+x (Sheared): 0.1177	y (Sheared): 0.4153	w (Sheared): 0.0552	h (Sheared): 0.2732	Aspect Ratio (Sheared): 0.0742	Area (Sheared): 0.0026	Perimeter (Sheared): 0.0101	Centroid_x (Sheared): 0.0649	Centroid_y (Sheared): 0.3791	Compactness (Sheared): 0.7502
+
+RoI 20:
+x (Original): 0.6490	y (Original): 0.3506	w (Original): 0.5870	h (Original): 0.1635	Aspect Ratio (Original): 0.4944	Area (Original): 0.1823	Perimeter (Original): 0.3382	Centroid_x (Original): 0.6486	Centroid_y (Original): 0.2983	Compactness (Original): 0.7428
+x (Translated): 0.6490	y (Translated): 0.3506	w (Translated): 0.5870	h (Translated): 0.1635	Aspect Ratio (Translated): 0.4944	Area (Translated): 0.1823	Perimeter (Translated): 0.3382	Centroid_x (Translated): 0.6486	Centroid_y (Translated): 0.2983	Compactness (Translated): 0.7428
+x (Rotated): 0.7211	y (Rotated): 0.2838	w (Rotated): 0.5870	h (Rotated): 0.1635	Aspect Ratio (Rotated): 0.4944	Area (Rotated): 0.1823	Perimeter (Rotated): 0.3382	Centroid_x (Rotated): 0.6897	Centroid_y (Rotated): 0.2537	Compactness (Rotated): 0.7428
+x (Scaled): 0.6490	y (Scaled): 0.3506	w (Scaled): 0.5870	h (Scaled): 0.1635	Aspect Ratio (Scaled): 0.4944	Area (Scaled): 0.1823	Perimeter (Scaled): 0.3382	Centroid_x (Scaled): 0.6486	Centroid_y (Scaled): 0.2913	Compactness (Scaled): 0.7428
+x (Sheared): 0.6324	y (Sheared): 0.4017	w (Sheared): 0.5870	h (Sheared): 0.1635	Aspect Ratio (Sheared): 0.4944	Area (Sheared): 0.1823	Perimeter (Sheared): 0.3382	Centroid_x (Sheared): 0.6229	Centroid_y (Sheared): 0.3381	Compactness (Sheared): 0.7428
+
+RoI 21:
+x (Original): 0.4900	y (Original): 0.3150	w (Original): 0.4953	h (Original): 0.4671	Aspect Ratio (Original): 0.2544	Area (Original): 0.2821	Perimeter (Original): 0.4073	Centroid_x (Original): 0.5080	Centroid_y (Original): 0.3640	Compactness (Original): 0.9834
+x (Translated): 0.4900	y (Translated): 0.3150	w (Translated): 0.4953	h (Translated): 0.4671	Aspect Ratio (Translated): 0.2544	Area (Translated): 0.2821	Perimeter (Translated): 0.4073	Centroid_x (Translated): 0.5080	Centroid_y (Translated): 0.3640	Compactness (Translated): 0.9834
+x (Rotated): 0.5338	y (Rotated): 0.2338	w (Rotated): 0.4953	h (Rotated): 0.4671	Aspect Ratio (Rotated): 0.2544	Area (Rotated): 0.2821	Perimeter (Rotated): 0.4073	Centroid_x (Rotated): 0.5297	Centroid_y (Rotated): 0.3106	Compactness (Rotated): 0.9834
+x (Scaled): 0.4900	y (Scaled): 0.3150	w (Scaled): 0.4953	h (Scaled): 0.4671	Aspect Ratio (Scaled): 0.2544	Area (Scaled): 0.2821	Perimeter (Scaled): 0.4073	Centroid_x (Scaled): 0.5103	Centroid_y (Scaled): 0.3706	Compactness (Scaled): 0.9834
+x (Sheared): 0.4780	y (Sheared): 0.3492	w (Sheared): 0.4953	h (Sheared): 0.4671	Aspect Ratio (Sheared): 0.2544	Area (Sheared): 0.2821	Perimeter (Sheared): 0.4073	Centroid_x (Sheared): 0.4795	Centroid_y (Sheared): 0.3864	Compactness (Sheared): 0.9834
+
+RoI 22:
+x (Original): 0.2291	y (Original): 0.4839	w (Original): 0.2123	h (Original): 0.7221	Aspect Ratio (Original): 0.0846	Area (Original): 0.1786	Perimeter (Original): 0.3196	Centroid_x (Original): 0.2307	Centroid_y (Original): 0.5606	Compactness (Original): 0.8012
+x (Translated): 0.2291	y (Translated): 0.4839	w (Translated): 0.2123	h (Translated): 0.7221	Aspect Ratio (Translated): 0.0846	Area (Translated): 0.1786	Perimeter (Translated): 0.3196	Centroid_x (Translated): 0.2307	Centroid_y (Translated): 0.5606	Compactness (Translated): 0.8012
+x (Rotated): 0.2524	y (Rotated): 0.3224	w (Rotated): 0.2123	h (Rotated): 0.7221	Aspect Ratio (Rotated): 0.0846	Area (Rotated): 0.1786	Perimeter (Rotated): 0.3196	Centroid_x (Rotated): 0.2436	Centroid_y (Rotated): 0.4522	Compactness (Rotated): 0.8012
+x (Scaled): 0.2291	y (Scaled): 0.4839	w (Scaled): 0.2123	h (Scaled): 0.7221	Aspect Ratio (Scaled): 0.0846	Area (Scaled): 0.1786	Perimeter (Scaled): 0.3196	Centroid_x (Scaled): 0.2309	Centroid_y (Scaled): 0.5709	Compactness (Scaled): 0.8012
+x (Sheared): 0.2411	y (Sheared): 0.4745	w (Sheared): 0.2123	h (Sheared): 0.7221	Aspect Ratio (Sheared): 0.0846	Area (Sheared): 0.1786	Perimeter (Sheared): 0.3196	Centroid_x (Sheared): 0.2091	Centroid_y (Sheared): 0.5499	Compactness (Sheared): 0.8012
+
+RoI 23:
+x (Original): 0.7515	y (Original): 0.3948	w (Original): 1.0000	h (Original): 1.0000	Aspect Ratio (Original): 0.2831	Area (Original): 1.0000	Perimeter (Original): 1.0000	Centroid_x (Original): 0.8636	Centroid_y (Original): 0.5805	Compactness (Original): 0.9634
+x (Translated): 0.7515	y (Translated): 0.3948	w (Translated): 1.0000	h (Translated): 1.0000	Aspect Ratio (Translated): 0.2831	Area (Translated): 1.0000	Perimeter (Translated): 1.0000	Centroid_x (Translated): 0.8636	Centroid_y (Translated): 0.5805	Compactness (Translated): 0.9634
+x (Rotated): 0.7181	y (Rotated): 0.5172	w (Rotated): 1.0000	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.2831	Area (Rotated): 1.0000	Perimeter (Rotated): 1.0000	Centroid_x (Rotated): 0.8180	Centroid_y (Rotated): 0.6770	Compactness (Rotated): 0.9634
+x (Scaled): 0.7515	y (Scaled): 0.3948	w (Scaled): 1.0000	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.2831	Area (Scaled): 1.0000	Perimeter (Scaled): 1.0000	Centroid_x (Scaled): 0.8779	Centroid_y (Scaled): 0.6055	Compactness (Scaled): 0.9634
+x (Sheared): 0.7335	y (Sheared): 0.4554	w (Sheared): 1.0000	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.2831	Area (Sheared): 1.0000	Perimeter (Sheared): 1.0000	Centroid_x (Sheared): 0.8417	Centroid_y (Sheared): 0.6151	Compactness (Sheared): 0.9634
+
+RoI 24:
+x (Original): 0.3578	y (Original): 0.5015	w (Original): 0.3785	h (Original): 0.5286	Aspect Ratio (Original): 0.1833	Area (Original): 0.2363	Perimeter (Original): 0.3518	Centroid_x (Original): 0.3769	Centroid_y (Original): 0.5151	Compactness (Original): 0.9964
+x (Translated): 0.3578	y (Translated): 0.5015	w (Translated): 0.3785	h (Translated): 0.5286	Aspect Ratio (Translated): 0.1833	Area (Translated): 0.2363	Perimeter (Translated): 0.3518	Centroid_x (Translated): 0.3769	Centroid_y (Translated): 0.5151	Compactness (Translated): 0.9964
+x (Rotated): 0.4023	y (Rotated): 0.3859	w (Rotated): 0.3785	h (Rotated): 0.5286	Aspect Ratio (Rotated): 0.1833	Area (Rotated): 0.2363	Perimeter (Rotated): 0.3518	Centroid_x (Rotated): 0.4009	Centroid_y (Rotated): 0.4386	Compactness (Rotated): 0.9964
+x (Scaled): 0.3578	y (Scaled): 0.5015	w (Scaled): 0.3785	h (Scaled): 0.5286	Aspect Ratio (Scaled): 0.1833	Area (Scaled): 0.2363	Perimeter (Scaled): 0.3518	Centroid_x (Scaled): 0.3793	Centroid_y (Scaled): 0.5169	Compactness (Scaled): 0.9964
+x (Sheared): 0.3653	y (Sheared): 0.5066	w (Sheared): 0.3785	h (Sheared): 0.5286	Aspect Ratio (Sheared): 0.1833	Area (Sheared): 0.2363	Perimeter (Sheared): 0.3518	Centroid_x (Sheared): 0.3572	Centroid_y (Sheared): 0.5181	Compactness (Sheared): 0.9964
+
+RoI 25:
+x (Original): 0.6124	y (Original): 0.3450	w (Original): 0.6636	h (Original): 0.9155	Aspect Ratio (Original): 0.2027	Area (Original): 0.6302	Perimeter (Original): 0.7245	Centroid_x (Original): 0.6506	Centroid_y (Original): 0.5198	Compactness (Original): 1.0000
+x (Translated): 0.6124	y (Translated): 0.3450	w (Translated): 0.6636	h (Translated): 0.9155	Aspect Ratio (Translated): 0.2027	Area (Translated): 0.6302	Perimeter (Translated): 0.7245	Centroid_x (Translated): 0.6506	Centroid_y (Translated): 0.5198	Compactness (Translated): 1.0000
+x (Rotated): 0.5879	y (Rotated): 0.3472	w (Rotated): 0.6636	h (Rotated): 0.9155	Aspect Ratio (Rotated): 0.2027	Area (Rotated): 0.6302	Perimeter (Rotated): 0.7245	Centroid_x (Rotated): 0.6207	Centroid_y (Rotated): 0.5291	Compactness (Rotated): 1.0000
+x (Scaled): 0.6124	y (Scaled): 0.3450	w (Scaled): 0.6636	h (Scaled): 0.9155	Aspect Ratio (Scaled): 0.2027	Area (Scaled): 0.6302	Perimeter (Scaled): 0.7245	Centroid_x (Scaled): 0.6554	Centroid_y (Scaled): 0.5433	Compactness (Scaled): 1.0000
+x (Sheared): 0.5970	y (Sheared): 0.3921	w (Sheared): 0.6636	h (Sheared): 0.9155	Aspect Ratio (Sheared): 0.2027	Area (Sheared): 0.6302	Perimeter (Sheared): 0.7245	Centroid_x (Sheared): 0.6246	Centroid_y (Sheared): 0.5451	Compactness (Sheared): 1.0000
+
+RoI 26:
+x (Original): 0.6009	y (Original): 1.0000	w (Original): 0.5751	h (Original): 0.9637	Aspect Ratio (Original): 0.1683	Area (Original): 0.5745	Perimeter (Original): 0.6831	Centroid_x (Original): 0.6117	Centroid_y (Original): 1.0000	Compactness (Original): 0.9885
+x (Translated): 0.6009	y (Translated): 1.0000	w (Translated): 0.5751	h (Translated): 0.9637	Aspect Ratio (Translated): 0.1683	Area (Translated): 0.5745	Perimeter (Translated): 0.6831	Centroid_x (Translated): 0.6117	Centroid_y (Translated): 1.0000	Compactness (Translated): 0.9885
+x (Rotated): 0.5658	y (Rotated): 0.9817	w (Rotated): 0.5751	h (Rotated): 0.9637	Aspect Ratio (Rotated): 0.1683	Area (Rotated): 0.5745	Perimeter (Rotated): 0.6831	Centroid_x (Rotated): 0.5773	Centroid_y (Rotated): 0.9992	Compactness (Rotated): 0.9885
+x (Scaled): 0.6009	y (Scaled): 1.0000	w (Scaled): 0.5751	h (Scaled): 0.9637	Aspect Ratio (Scaled): 0.1683	Area (Scaled): 0.5745	Perimeter (Scaled): 0.6831	Centroid_x (Scaled): 0.6130	Centroid_y (Scaled): 1.0000	Compactness (Scaled): 0.9885
+x (Sheared): 0.6338	y (Sheared): 1.0000	w (Sheared): 0.5751	h (Sheared): 0.9637	Aspect Ratio (Sheared): 0.1683	Area (Sheared): 0.5745	Perimeter (Sheared): 0.6831	Centroid_x (Sheared): 0.6197	Centroid_y (Sheared): 1.0000	Compactness (Sheared): 0.9885
+
+RoI 27:
+x (Original): 0.3592	y (Original): 0.4339	w (Original): 0.3694	h (Original): 0.7305	Aspect Ratio (Original): 0.1393	Area (Original): 0.3011	Perimeter (Original): 0.4345	Centroid_x (Original): 0.3746	Centroid_y (Original): 0.5276	Compactness (Original): 0.9563
+x (Translated): 0.3592	y (Translated): 0.4339	w (Translated): 0.3694	h (Translated): 0.7305	Aspect Ratio (Translated): 0.1393	Area (Translated): 0.3011	Perimeter (Translated): 0.4345	Centroid_x (Translated): 0.3746	Centroid_y (Translated): 0.5276	Compactness (Translated): 0.9563
+x (Rotated): 0.3746	y (Rotated): 0.3260	w (Rotated): 0.3694	h (Rotated): 0.7305	Aspect Ratio (Rotated): 0.1393	Area (Rotated): 0.3011	Perimeter (Rotated): 0.4345	Centroid_x (Rotated): 0.3786	Centroid_y (Rotated): 0.4573	Compactness (Rotated): 0.9563
+x (Scaled): 0.3592	y (Scaled): 0.4339	w (Scaled): 0.3694	h (Scaled): 0.7305	Aspect Ratio (Scaled): 0.1393	Area (Scaled): 0.3011	Perimeter (Scaled): 0.4345	Centroid_x (Scaled): 0.3766	Centroid_y (Scaled): 0.5401	Compactness (Scaled): 0.9563
+x (Sheared): 0.3617	y (Sheared): 0.4439	w (Sheared): 0.3694	h (Sheared): 0.7305	Aspect Ratio (Sheared): 0.1393	Area (Sheared): 0.3011	Perimeter (Sheared): 0.4345	Centroid_x (Sheared): 0.3514	Centroid_y (Sheared): 0.5300	Compactness (Sheared): 0.9563
+
+RoI 28:
+x (Original): 0.0000	y (Original): 0.9273	w (Original): 0.0000	h (Original): 1.0000	Aspect Ratio (Original): 0.0000	Area (Original): 0.0410	Perimeter (Original): 0.2920	Centroid_x (Original): 0.0000	Centroid_y (Original): 0.9592	Compactness (Original): 0.0000
+x (Translated): 0.0000	y (Translated): 0.9273	w (Translated): 0.0000	h (Translated): 1.0000	Aspect Ratio (Translated): 0.0000	Area (Translated): 0.0410	Perimeter (Translated): 0.2920	Centroid_x (Translated): 0.0000	Centroid_y (Translated): 0.9592	Compactness (Translated): 0.0000
+x (Rotated): 0.0000	y (Rotated): 0.7139	w (Rotated): 0.0000	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.0000	Area (Rotated): 0.0410	Perimeter (Rotated): 0.2920	Centroid_x (Rotated): 0.0000	Centroid_y (Rotated): 0.8181	Compactness (Rotated): 0.0000
+x (Scaled): 0.0000	y (Scaled): 0.9273	w (Scaled): 0.0000	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.0000	Area (Scaled): 0.0410	Perimeter (Scaled): 0.2920	Centroid_x (Scaled): 0.0000	Centroid_y (Scaled): 0.9635	Compactness (Scaled): 0.0000
+x (Sheared): 0.0546	y (Sheared): 0.8590	w (Sheared): 0.0000	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.0000	Area (Sheared): 0.0410	Perimeter (Sheared): 0.2920	Centroid_x (Sheared): 0.0000	Centroid_y (Sheared): 0.9080	Compactness (Sheared): 0.0000
+
+RoI 29:
+x (Original): 0.7385	y (Original): 0.9300	w (Original): 0.7524	h (Original): 0.9696	Aspect Ratio (Original): 0.2187	Area (Original): 0.7436	Perimeter (Original): 0.8113	Centroid_x (Original): 0.7677	Centroid_y (Original): 0.9520	Compactness (Original): 0.9983
+x (Translated): 0.7385	y (Translated): 0.9300	w (Translated): 0.7524	h (Translated): 0.9696	Aspect Ratio (Translated): 0.2187	Area (Translated): 0.7436	Perimeter (Translated): 0.8113	Centroid_x (Translated): 0.7677	Centroid_y (Translated): 0.9520	Compactness (Translated): 0.9983
+x (Rotated): 0.6960	y (Rotated): 0.9718	w (Rotated): 0.7524	h (Rotated): 0.9696	Aspect Ratio (Rotated): 0.2187	Area (Rotated): 0.7436	Perimeter (Rotated): 0.8113	Centroid_x (Rotated): 0.7244	Centroid_y (Rotated): 0.9939	Compactness (Rotated): 0.9983
+x (Scaled): 0.7385	y (Scaled): 0.9300	w (Scaled): 0.7524	h (Scaled): 0.9696	Aspect Ratio (Scaled): 0.2187	Area (Scaled): 0.7436	Perimeter (Scaled): 0.8113	Centroid_x (Scaled): 0.7714	Centroid_y (Scaled): 0.9549	Compactness (Scaled): 0.9983
+x (Sheared): 0.7601	y (Sheared): 0.9516	w (Sheared): 0.7524	h (Sheared): 0.9696	Aspect Ratio (Sheared): 0.2187	Area (Sheared): 0.7436	Perimeter (Sheared): 0.8113	Centroid_x (Sheared): 0.7732	Centroid_y (Sheared): 0.9666	Compactness (Sheared): 0.9983
+
+RoI 30:
+x (Original): 0.2420	y (Original): 0.6279	w (Original): 0.2051	h (Original): 0.5238	Aspect Ratio (Original): 0.1086	Area (Original): 0.1270	Perimeter (Original): 0.2269	Centroid_x (Original): 0.2370	Centroid_y (Original): 0.6035	Compactness (Original): 0.8886
+x (Translated): 0.2420	y (Translated): 0.6279	w (Translated): 0.2051	h (Translated): 0.5238	Aspect Ratio (Translated): 0.1086	Area (Translated): 0.1270	Perimeter (Translated): 0.2269	Centroid_x (Translated): 0.2370	Centroid_y (Translated): 0.6035	Compactness (Translated): 0.8886
+x (Rotated): 0.2912	y (Rotated): 0.4541	w (Rotated): 0.2051	h (Rotated): 0.5238	Aspect Ratio (Rotated): 0.1086	Area (Rotated): 0.1270	Perimeter (Rotated): 0.2269	Centroid_x (Rotated): 0.2685	Centroid_y (Rotated): 0.4861	Compactness (Rotated): 0.8886
+x (Scaled): 0.2420	y (Scaled): 0.6279	w (Scaled): 0.2051	h (Scaled): 0.5238	Aspect Ratio (Scaled): 0.1086	Area (Scaled): 0.1270	Perimeter (Scaled): 0.2269	Centroid_x (Scaled): 0.2364	Centroid_y (Scaled): 0.6002	Compactness (Scaled): 0.8886
+x (Sheared): 0.2639	y (Sheared): 0.6100	w (Sheared): 0.2051	h (Sheared): 0.5238	Aspect Ratio (Sheared): 0.1086	Area (Sheared): 0.1270	Perimeter (Sheared): 0.2269	Centroid_x (Sheared): 0.2230	Centroid_y (Sheared): 0.5918	Compactness (Sheared): 0.8886
+
+RoI 31:
+x (Original): 0.5720	y (Original): 0.2833	w (Original): 0.6474	h (Original): 0.8131	Aspect Ratio (Original): 0.2183	Area (Original): 0.5596	Perimeter (Original): 0.6678	Centroid_x (Original): 0.6174	Centroid_y (Original): 0.4452	Compactness (Original): 0.9984
+x (Translated): 0.5720	y (Translated): 0.2833	w (Translated): 0.6474	h (Translated): 0.8131	Aspect Ratio (Translated): 0.2183	Area (Translated): 0.5596	Perimeter (Translated): 0.6678	Centroid_x (Translated): 0.6174	Centroid_y (Translated): 0.4452	Compactness (Translated): 0.9984
+x (Rotated): 0.5660	y (Rotated): 0.2735	w (Rotated): 0.6474	h (Rotated): 0.8131	Aspect Ratio (Rotated): 0.2183	Area (Rotated): 0.5596	Perimeter (Rotated): 0.6678	Centroid_x (Rotated): 0.6003	Centroid_y (Rotated): 0.4449	Compactness (Rotated): 0.9984
+x (Scaled): 0.5720	y (Scaled): 0.2833	w (Scaled): 0.6474	h (Scaled): 0.8131	Aspect Ratio (Scaled): 0.2183	Area (Scaled): 0.5596	Perimeter (Scaled): 0.6678	Centroid_x (Scaled): 0.6232	Centroid_y (Scaled): 0.4670	Compactness (Scaled): 0.9984
+x (Sheared): 0.5540	y (Sheared): 0.3298	w (Sheared): 0.6474	h (Sheared): 0.8131	Aspect Ratio (Sheared): 0.2183	Area (Sheared): 0.5596	Perimeter (Sheared): 0.6678	Centroid_x (Sheared): 0.5879	Centroid_y (Sheared): 0.4707	Compactness (Sheared): 0.9984
+
+RoI 32:
+x (Original): 0.0297	y (Original): 0.0000	w (Original): 0.8210	h (Original): 0.0000	Aspect Ratio (Original): 1.0000	Area (Original): 0.1577	Perimeter (Original): 0.4316	Centroid_x (Original): 0.3086	Centroid_y (Original): 0.0000	Compactness (Original): 0.2994
+x (Translated): 0.0297	y (Translated): 0.0000	w (Translated): 0.8210	h (Translated): 0.0000	Aspect Ratio (Translated): 1.0000	Area (Translated): 0.1577	Perimeter (Translated): 0.4316	Centroid_x (Translated): 0.3086	Centroid_y (Translated): 0.0000	Compactness (Translated): 0.2994
+x (Rotated): 0.2163	y (Rotated): 0.0000	w (Rotated): 0.8210	h (Rotated): 0.0000	Aspect Ratio (Rotated): 1.0000	Area (Rotated): 0.1577	Perimeter (Rotated): 0.4316	Centroid_x (Rotated): 0.4103	Centroid_y (Rotated): 0.0000	Compactness (Rotated): 0.2994
+x (Scaled): 0.0297	y (Scaled): 0.0000	w (Scaled): 0.8210	h (Scaled): 0.0000	Aspect Ratio (Scaled): 1.0000	Area (Scaled): 0.1577	Perimeter (Scaled): 0.4316	Centroid_x (Scaled): 0.3444	Centroid_y (Scaled): 0.0000	Compactness (Scaled): 0.2994
+x (Sheared): 0.0154	y (Sheared): 0.0000	w (Sheared): 0.8210	h (Sheared): 0.0000	Aspect Ratio (Sheared): 1.0000	Area (Sheared): 0.1577	Perimeter (Sheared): 0.4316	Centroid_x (Sheared): 0.2622	Centroid_y (Sheared): 0.0000	Compactness (Sheared): 0.2994
+
+RoI 33:
+x (Original): 0.8058	y (Original): 0.5393	w (Original): 1.0000	h (Original): 1.0000	Aspect Ratio (Original): 0.2831	Area (Original): 1.0000	Perimeter (Original): 1.0000	Centroid_x (Original): 0.9006	Centroid_y (Original): 0.6833	Compactness (Original): 0.9634
+x (Translated): 0.8058	y (Translated): 0.5393	w (Translated): 1.0000	h (Translated): 1.0000	Aspect Ratio (Translated): 0.2831	Area (Translated): 1.0000	Perimeter (Translated): 1.0000	Centroid_x (Translated): 0.9006	Centroid_y (Translated): 0.6833	Compactness (Translated): 0.9634
+x (Rotated): 0.7656	y (Rotated): 0.6633	w (Rotated): 1.0000	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.2831	Area (Rotated): 1.0000	Perimeter (Rotated): 1.0000	Centroid_x (Rotated): 0.8512	Centroid_y (Rotated): 0.7818	Compactness (Rotated): 0.9634
+x (Scaled): 0.8058	y (Scaled): 0.5393	w (Scaled): 1.0000	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.2831	Area (Scaled): 1.0000	Perimeter (Scaled): 1.0000	Centroid_x (Scaled): 0.9127	Centroid_y (Scaled): 0.7027	Compactness (Scaled): 0.9634
+x (Sheared): 0.7959	y (Sheared): 0.5964	w (Sheared): 1.0000	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.2831	Area (Sheared): 1.0000	Perimeter (Sheared): 1.0000	Centroid_x (Sheared): 0.8865	Centroid_y (Sheared): 0.7175	Compactness (Sheared): 0.9634
+
+RoI 34:
+x (Original): 0.2165	y (Original): 0.4497	w (Original): 0.2295	h (Original): 0.4335	Aspect Ratio (Original): 0.1370	Area (Original): 0.1196	Perimeter (Original): 0.2043	Centroid_x (Original): 0.2282	Centroid_y (Original): 0.4497	Compactness (Original): 0.9526
+x (Translated): 0.2165	y (Translated): 0.4497	w (Translated): 0.2295	h (Translated): 0.4335	Aspect Ratio (Translated): 0.1370	Area (Translated): 0.1196	Perimeter (Translated): 0.2043	Centroid_x (Translated): 0.2282	Centroid_y (Translated): 0.4497	Compactness (Translated): 0.9526
+x (Rotated): 0.2830	y (Rotated): 0.2772	w (Rotated): 0.2295	h (Rotated): 0.4335	Aspect Ratio (Rotated): 0.1370	Area (Rotated): 0.1196	Perimeter (Rotated): 0.2043	Centroid_x (Rotated): 0.2704	Centroid_y (Rotated): 0.3315	Compactness (Rotated): 0.9526
+x (Scaled): 0.2165	y (Scaled): 0.4497	w (Scaled): 0.2295	h (Scaled): 0.4335	Aspect Ratio (Scaled): 0.1370	Area (Scaled): 0.1196	Perimeter (Scaled): 0.2043	Centroid_x (Scaled): 0.2297	Centroid_y (Scaled): 0.4497	Compactness (Scaled): 0.9526
+x (Sheared): 0.2266	y (Sheared): 0.4411	w (Sheared): 0.2295	h (Sheared): 0.4335	Aspect Ratio (Sheared): 0.1370	Area (Sheared): 0.1196	Perimeter (Sheared): 0.2043	Centroid_x (Sheared): 0.2048	Centroid_y (Sheared): 0.4435	Compactness (Sheared): 0.9526
+
+RoI 35:
+x (Original): 0.0676	y (Original): 0.6817	w (Original): 0.0538	h (Original): 0.8288	Aspect Ratio (Original): 0.0224	Area (Original): 0.0712	Perimeter (Original): 0.2545	Centroid_x (Original): 0.0650	Centroid_y (Original): 0.7333	Compactness (Original): 0.3241
+x (Translated): 0.0676	y (Translated): 0.6817	w (Translated): 0.0538	h (Translated): 0.8288	Aspect Ratio (Translated): 0.0224	Area (Translated): 0.0712	Perimeter (Translated): 0.2545	Centroid_x (Translated): 0.0650	Centroid_y (Translated): 0.7333	Compactness (Translated): 0.3241
+x (Rotated): 0.0865	y (Rotated): 0.4743	w (Rotated): 0.0538	h (Rotated): 0.8288	Aspect Ratio (Rotated): 0.0224	Area (Rotated): 0.0712	Perimeter (Rotated): 0.2545	Centroid_x (Rotated): 0.0775	Centroid_y (Rotated): 0.5938	Compactness (Rotated): 0.3241
+x (Scaled): 0.0676	y (Scaled): 0.6817	w (Scaled): 0.0538	h (Scaled): 0.8288	Aspect Ratio (Scaled): 0.0224	Area (Scaled): 0.0712	Perimeter (Scaled): 0.2545	Centroid_x (Scaled): 0.0646	Centroid_y (Scaled): 0.7402	Compactness (Scaled): 0.3241
+x (Sheared): 0.1012	y (Sheared): 0.6388	w (Sheared): 0.0538	h (Sheared): 0.8288	Aspect Ratio (Sheared): 0.0224	Area (Sheared): 0.0712	Perimeter (Sheared): 0.2545	Centroid_x (Sheared): 0.0526	Centroid_y (Sheared): 0.6995	Compactness (Sheared): 0.3241
+
+RoI 36:
+x (Original): 0.2645	y (Original): 0.3449	w (Original): 0.1927	h (Original): 0.1279	Aspect Ratio (Original): 0.2176	Area (Original): 0.0309	Perimeter (Original): 0.0433	Centroid_x (Original): 0.2480	Centroid_y (Original): 0.2836	Compactness (Original): 0.9986
+x (Translated): 0.2645	y (Translated): 0.3449	w (Translated): 0.1927	h (Translated): 0.1279	Aspect Ratio (Translated): 0.2176	Area (Translated): 0.0309	Perimeter (Translated): 0.0433	Centroid_x (Translated): 0.2480	Centroid_y (Translated): 0.2836	Compactness (Translated): 0.9986
+x (Rotated): 0.3658	y (Rotated): 0.1413	w (Rotated): 0.1927	h (Rotated): 0.1279	Aspect Ratio (Rotated): 0.2176	Area (Rotated): 0.0309	Perimeter (Rotated): 0.0433	Centroid_x (Rotated): 0.3167	Centroid_y (Rotated): 0.1405	Compactness (Rotated): 0.9986
+x (Scaled): 0.2645	y (Scaled): 0.3449	w (Scaled): 0.1927	h (Scaled): 0.1279	Aspect Ratio (Scaled): 0.2176	Area (Scaled): 0.0309	Perimeter (Scaled): 0.0433	Centroid_x (Scaled): 0.2459	Centroid_y (Scaled): 0.2753	Compactness (Scaled): 0.9986
+x (Sheared): 0.2648	y (Sheared): 0.3495	w (Sheared): 0.1927	h (Sheared): 0.1279	Aspect Ratio (Sheared): 0.2176	Area (Sheared): 0.0309	Perimeter (Sheared): 0.0433	Centroid_x (Sheared): 0.2192	Centroid_y (Sheared): 0.2900	Compactness (Sheared): 0.9986
+
+RoI 37:
+x (Original): 0.6132	y (Original): 0.5001	w (Original): 0.6075	h (Original): 0.5050	Aspect Ratio (Original): 0.2918	Area (Original): 0.3668	Perimeter (Original): 0.5035	Centroid_x (Original): 0.6314	Centroid_y (Original): 0.5070	Compactness (Original): 0.9563
+x (Translated): 0.6132	y (Translated): 0.5001	w (Translated): 0.6075	h (Translated): 0.5050	Aspect Ratio (Translated): 0.2918	Area (Translated): 0.3668	Perimeter (Translated): 0.5035	Centroid_x (Translated): 0.6314	Centroid_y (Translated): 0.5070	Compactness (Translated): 0.9563
+x (Rotated): 0.6430	y (Rotated): 0.4613	w (Rotated): 0.6075	h (Rotated): 0.5050	Aspect Ratio (Rotated): 0.2918	Area (Rotated): 0.3668	Perimeter (Rotated): 0.5035	Centroid_x (Rotated): 0.6416	Centroid_y (Rotated): 0.4855	Compactness (Rotated): 0.9563
+x (Scaled): 0.6132	y (Scaled): 0.5001	w (Scaled): 0.6075	h (Scaled): 0.5050	Aspect Ratio (Scaled): 0.2918	Area (Scaled): 0.3668	Perimeter (Scaled): 0.5035	Centroid_x (Scaled): 0.6337	Centroid_y (Scaled): 0.5079	Compactness (Scaled): 0.9563
+x (Sheared): 0.6091	y (Sheared): 0.5364	w (Sheared): 0.6075	h (Sheared): 0.5050	Aspect Ratio (Sheared): 0.2918	Area (Sheared): 0.3668	Perimeter (Sheared): 0.5035	Centroid_x (Sheared): 0.6134	Centroid_y (Sheared): 0.5330	Compactness (Sheared): 0.9563
+
+RoI 38:
+x (Original): 0.6477	y (Original): 0.3436	w (Original): 0.6971	h (Original): 0.8633	Aspect Ratio (Original): 0.2235	Area (Original): 0.6299	Perimeter (Original): 0.7252	Centroid_x (Original): 0.6864	Centroid_y (Original): 0.5032	Compactness (Original): 0.9971
+x (Translated): 0.6477	y (Translated): 0.3436	w (Translated): 0.6971	h (Translated): 0.8633	Aspect Ratio (Translated): 0.2235	Area (Translated): 0.6299	Perimeter (Translated): 0.7252	Centroid_x (Translated): 0.6864	Centroid_y (Translated): 0.5032	Compactness (Translated): 0.9971
+x (Rotated): 0.6281	y (Rotated): 0.3543	w (Rotated): 0.6971	h (Rotated): 0.8633	Aspect Ratio (Rotated): 0.2235	Area (Rotated): 0.6299	Perimeter (Rotated): 0.7252	Centroid_x (Rotated): 0.6595	Centroid_y (Rotated): 0.5183	Compactness (Rotated): 0.9971
+x (Scaled): 0.6477	y (Scaled): 0.3436	w (Scaled): 0.6971	h (Scaled): 0.8633	Aspect Ratio (Scaled): 0.2235	Area (Scaled): 0.6299	Perimeter (Scaled): 0.7252	Centroid_x (Scaled): 0.6913	Centroid_y (Scaled): 0.5246	Compactness (Scaled): 0.9971
+x (Sheared): 0.6306	y (Sheared): 0.3951	w (Sheared): 0.6971	h (Sheared): 0.8633	Aspect Ratio (Sheared): 0.2235	Area (Sheared): 0.6299	Perimeter (Sheared): 0.7252	Centroid_x (Sheared): 0.6606	Centroid_y (Sheared): 0.5325	Compactness (Sheared): 0.9971
+
+RoI 39:
+x (Original): 0.0438	y (Original): 0.9419	w (Original): 0.5592	h (Original): 1.0000	Aspect Ratio (Original): 0.1583	Area (Original): 0.5772	Perimeter (Original): 0.6879	Centroid_x (Original): 0.2262	Centroid_y (Original): 0.9696	Compactness (Original): 0.9802
+x (Translated): 0.0438	y (Translated): 0.9419	w (Translated): 0.5592	h (Translated): 1.0000	Aspect Ratio (Translated): 0.1583	Area (Translated): 0.5772	Perimeter (Translated): 0.6879	Centroid_x (Translated): 0.2262	Centroid_y (Translated): 0.9696	Compactness (Translated): 0.9802
+x (Rotated): 0.0721	y (Rotated): 0.9196	w (Rotated): 0.5592	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.1583	Area (Rotated): 0.5772	Perimeter (Rotated): 0.6879	Centroid_x (Rotated): 0.2269	Centroid_y (Rotated): 0.9657	Compactness (Rotated): 0.9802
+x (Scaled): 0.0438	y (Scaled): 0.9419	w (Scaled): 0.5592	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.1583	Area (Scaled): 0.5772	Perimeter (Scaled): 0.6879	Centroid_x (Scaled): 0.2496	Centroid_y (Scaled): 0.9733	Compactness (Scaled): 0.9802
+x (Sheared): 0.0974	y (Sheared): 0.8779	w (Sheared): 0.5592	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.1583	Area (Sheared): 0.5772	Perimeter (Sheared): 0.6879	Centroid_x (Sheared): 0.2286	Centroid_y (Sheared): 0.9218	Compactness (Sheared): 0.9802
+
+RoI 40:
+x (Original): 0.3621	y (Original): 0.2615	w (Original): 0.3560	h (Original): 0.4093	Aspect Ratio (Original): 0.2063	Area (Original): 0.1818	Perimeter (Original): 0.2832	Centroid_x (Original): 0.3719	Centroid_y (Original): 0.3086	Compactness (Original): 1.0000
+x (Translated): 0.3621	y (Translated): 0.2615	w (Translated): 0.3560	h (Translated): 0.4093	Aspect Ratio (Translated): 0.2063	Area (Translated): 0.1818	Perimeter (Translated): 0.2832	Centroid_x (Translated): 0.3719	Centroid_y (Translated): 0.3086	Compactness (Translated): 1.0000
+x (Rotated): 0.4215	y (Rotated): 0.1288	w (Rotated): 0.3560	h (Rotated): 0.4093	Aspect Ratio (Rotated): 0.2063	Area (Rotated): 0.1818	Perimeter (Rotated): 0.2832	Centroid_x (Rotated): 0.4073	Centroid_y (Rotated): 0.2176	Compactness (Rotated): 1.0000
+x (Scaled): 0.3621	y (Scaled): 0.2615	w (Scaled): 0.3560	h (Scaled): 0.4093	Aspect Ratio (Scaled): 0.2063	Area (Scaled): 0.1818	Perimeter (Scaled): 0.2832	Centroid_x (Scaled): 0.3732	Centroid_y (Scaled): 0.3150	Compactness (Scaled): 1.0000
+x (Sheared): 0.3519	y (Sheared): 0.2838	w (Sheared): 0.3560	h (Sheared): 0.4093	Aspect Ratio (Sheared): 0.2063	Area (Sheared): 0.1818	Perimeter (Sheared): 0.2832	Centroid_x (Sheared): 0.3396	Centroid_y (Sheared): 0.3225	Compactness (Sheared): 1.0000
+
+RoI 41:
+x (Original): 0.7359	y (Original): 0.2793	w (Original): 0.6516	h (Original): 0.0495	Aspect Ratio (Original): 0.7083	Area (Original): 0.1431	Perimeter (Original): 0.3336	Centroid_x (Original): 0.7305	Centroid_y (Original): 0.2134	Compactness (Original): 0.5263
+x (Translated): 0.7359	y (Translated): 0.2793	w (Translated): 0.6516	h (Translated): 0.0495	Aspect Ratio (Translated): 0.7083	Area (Translated): 0.1431	Perimeter (Translated): 0.3336	Centroid_x (Translated): 0.7305	Centroid_y (Translated): 0.2134	Compactness (Translated): 0.5263
+x (Rotated): 0.8170	y (Rotated): 0.2273	w (Rotated): 0.6516	h (Rotated): 0.0495	Aspect Ratio (Rotated): 0.7083	Area (Rotated): 0.1431	Perimeter (Rotated): 0.3336	Centroid_x (Rotated): 0.7773	Centroid_y (Rotated): 0.1782	Compactness (Rotated): 0.5263
+x (Scaled): 0.7359	y (Scaled): 0.2793	w (Scaled): 0.6516	h (Scaled): 0.0495	Aspect Ratio (Scaled): 0.7083	Area (Scaled): 0.1431	Perimeter (Scaled): 0.3336	Centroid_x (Scaled): 0.7298	Centroid_y (Scaled): 0.2046	Compactness (Scaled): 0.5263
+x (Sheared): 0.7102	y (Sheared): 0.3460	w (Sheared): 0.6516	h (Sheared): 0.0495	Aspect Ratio (Sheared): 0.7083	Area (Sheared): 0.1431	Perimeter (Sheared): 0.3336	Centroid_x (Sheared): 0.7017	Centroid_y (Sheared): 0.2652	Compactness (Sheared): 0.5263
+
+RoI 42:
+x (Original): 0.1013	y (Original): 0.4649	w (Original): 0.0957	h (Original): 0.6894	Aspect Ratio (Original): 0.0455	Area (Original): 0.0848	Perimeter (Original): 0.2226	Centroid_x (Original): 0.1027	Centroid_y (Original): 0.5373	Compactness (Original): 0.5571
+x (Translated): 0.1013	y (Translated): 0.4649	w (Translated): 0.0957	h (Translated): 0.6894	Aspect Ratio (Translated): 0.0455	Area (Translated): 0.0848	Perimeter (Translated): 0.2226	Centroid_x (Translated): 0.1027	Centroid_y (Translated): 0.5373	Compactness (Translated): 0.5571
+x (Rotated): 0.1381	y (Rotated): 0.2615	w (Rotated): 0.0957	h (Rotated): 0.6894	Aspect Ratio (Rotated): 0.0455	Area (Rotated): 0.0848	Perimeter (Rotated): 0.2226	Centroid_x (Rotated): 0.1268	Centroid_y (Rotated): 0.3985	Compactness (Rotated): 0.5571
+x (Scaled): 0.1013	y (Scaled): 0.4649	w (Scaled): 0.0957	h (Scaled): 0.6894	Aspect Ratio (Scaled): 0.0455	Area (Scaled): 0.0848	Perimeter (Scaled): 0.2226	Centroid_x (Scaled): 0.1028	Centroid_y (Scaled): 0.5470	Compactness (Scaled): 0.5571
+x (Sheared): 0.1176	y (Sheared): 0.4412	w (Sheared): 0.0957	h (Sheared): 0.6894	Aspect Ratio (Sheared): 0.0455	Area (Sheared): 0.0848	Perimeter (Sheared): 0.2226	Centroid_x (Sheared): 0.0792	Centroid_y (Sheared): 0.5164	Compactness (Sheared): 0.5571
+
+RoI 43:
+x (Original): 0.1300	y (Original): 0.0000	w (Original): 0.8333	h (Original): 0.2372	Aspect Ratio (Original): 0.5884	Area (Original): 0.3219	Perimeter (Original): 0.5451	Centroid_x (Original): 0.3813	Centroid_y (Original): 0.0711	Compactness (Original): 0.6426
+x (Translated): 0.1300	y (Translated): 0.0000	w (Translated): 0.8333	h (Translated): 0.2372	Aspect Ratio (Translated): 0.5884	Area (Translated): 0.3219	Perimeter (Translated): 0.5451	Centroid_x (Translated): 0.3813	Centroid_y (Translated): 0.0711	Compactness (Translated): 0.6426
+x (Rotated): 0.2714	y (Rotated): 0.0177	w (Rotated): 0.8333	h (Rotated): 0.2372	Aspect Ratio (Rotated): 0.5884	Area (Rotated): 0.3219	Perimeter (Rotated): 0.5451	Centroid_x (Rotated): 0.4528	Centroid_y (Rotated): 0.0853	Compactness (Rotated): 0.6426
+x (Scaled): 0.1300	y (Scaled): 0.0000	w (Scaled): 0.8333	h (Scaled): 0.2372	Aspect Ratio (Scaled): 0.5884	Area (Scaled): 0.3219	Perimeter (Scaled): 0.5451	Centroid_x (Scaled): 0.4135	Centroid_y (Scaled): 0.0807	Compactness (Scaled): 0.6426
+x (Sheared): 0.1112	y (Sheared): 0.0122	w (Sheared): 0.8333	h (Sheared): 0.2372	Aspect Ratio (Sheared): 0.5884	Area (Sheared): 0.3219	Perimeter (Sheared): 0.5451	Centroid_x (Sheared): 0.3354	Centroid_y (Sheared): 0.0764	Compactness (Sheared): 0.6426
+
+RoI 44:
+x (Original): 0.1037	y (Original): 0.4980	w (Original): 0.0808	h (Original): 0.8173	Aspect Ratio (Original): 0.0318	Area (Original): 0.0922	Perimeter (Original): 0.2685	Centroid_x (Original): 0.0991	Centroid_y (Original): 0.5992	Compactness (Original): 0.4295
+x (Translated): 0.1037	y (Translated): 0.4980	w (Translated): 0.0808	h (Translated): 0.8173	Aspect Ratio (Translated): 0.0318	Area (Translated): 0.0922	Perimeter (Translated): 0.2685	Centroid_x (Translated): 0.0991	Centroid_y (Translated): 0.5992	Compactness (Translated): 0.4295
+x (Rotated): 0.1214	y (Rotated): 0.2972	w (Rotated): 0.0808	h (Rotated): 0.8173	Aspect Ratio (Rotated): 0.0318	Area (Rotated): 0.0922	Perimeter (Rotated): 0.2685	Centroid_x (Rotated): 0.1104	Centroid_y (Rotated): 0.4632	Compactness (Rotated): 0.4295
+x (Scaled): 0.1037	y (Scaled): 0.4980	w (Scaled): 0.0808	h (Scaled): 0.8173	Aspect Ratio (Scaled): 0.0318	Area (Scaled): 0.0922	Perimeter (Scaled): 0.2685	Centroid_x (Scaled): 0.0985	Centroid_y (Scaled): 0.6128	Compactness (Scaled): 0.4295
+x (Sheared): 0.1224	y (Sheared): 0.4723	w (Sheared): 0.0808	h (Sheared): 0.8173	Aspect Ratio (Sheared): 0.0318	Area (Sheared): 0.0922	Perimeter (Sheared): 0.2685	Centroid_x (Sheared): 0.0773	Centroid_y (Sheared): 0.5754	Compactness (Sheared): 0.4295
+
+RoI 45:
+x (Original): 0.4757	y (Original): 0.6289	w (Original): 0.4852	h (Original): 0.5925	Aspect Ratio (Original): 0.2118	Area (Original): 0.3304	Perimeter (Original): 0.4556	Centroid_x (Original): 0.4947	Centroid_y (Original): 0.6248	Compactness (Original): 0.9995
+x (Translated): 0.4757	y (Translated): 0.6289	w (Translated): 0.4852	h (Translated): 0.5925	Aspect Ratio (Translated): 0.2118	Area (Translated): 0.3304	Perimeter (Translated): 0.4556	Centroid_x (Translated): 0.4947	Centroid_y (Translated): 0.6248	Compactness (Translated): 0.9995
+x (Rotated): 0.5029	y (Rotated): 0.5547	w (Rotated): 0.4852	h (Rotated): 0.5925	Aspect Ratio (Rotated): 0.2118	Area (Rotated): 0.3304	Perimeter (Rotated): 0.4556	Centroid_x (Rotated): 0.5050	Centroid_y (Rotated): 0.5793	Compactness (Rotated): 0.9995
+x (Scaled): 0.4757	y (Scaled): 0.6289	w (Scaled): 0.4852	h (Scaled): 0.5925	Aspect Ratio (Scaled): 0.2118	Area (Scaled): 0.3304	Perimeter (Scaled): 0.4556	Centroid_x (Scaled): 0.4971	Centroid_y (Scaled): 0.6243	Compactness (Scaled): 0.9995
+x (Sheared): 0.4871	y (Sheared): 0.6395	w (Sheared): 0.4852	h (Sheared): 0.5925	Aspect Ratio (Sheared): 0.2118	Area (Sheared): 0.3304	Perimeter (Sheared): 0.4556	Centroid_x (Sheared): 0.4825	Centroid_y (Sheared): 0.6327	Compactness (Sheared): 0.9995
+
+RoI 46:
+x (Original): 0.5284	y (Original): 0.2285	w (Original): 0.4629	h (Original): 0.0148	Aspect Ratio (Original): 0.5808	Area (Original): 0.0753	Perimeter (Original): 0.1846	Centroid_x (Original): 0.5228	Centroid_y (Original): 0.1669	Compactness (Original): 0.6505
+x (Translated): 0.5284	y (Translated): 0.2285	w (Translated): 0.4629	h (Translated): 0.0148	Aspect Ratio (Translated): 0.5808	Area (Translated): 0.0753	Perimeter (Translated): 0.1846	Centroid_x (Translated): 0.5228	Centroid_y (Translated): 0.1669	Compactness (Translated): 0.6505
+x (Rotated): 0.6289	y (Rotated): 0.1095	w (Rotated): 0.4629	h (Rotated): 0.0148	Aspect Ratio (Rotated): 0.5808	Area (Rotated): 0.0753	Perimeter (Rotated): 0.1846	Centroid_x (Rotated): 0.5861	Centroid_y (Rotated): 0.0831	Compactness (Rotated): 0.6505
+x (Scaled): 0.5284	y (Scaled): 0.2285	w (Scaled): 0.4629	h (Scaled): 0.0148	Aspect Ratio (Scaled): 0.5808	Area (Scaled): 0.0753	Perimeter (Scaled): 0.1846	Centroid_x (Scaled): 0.5221	Centroid_y (Scaled): 0.1586	Compactness (Scaled): 0.6505
+x (Sheared): 0.5083	y (Sheared): 0.2734	w (Sheared): 0.4629	h (Sheared): 0.0148	Aspect Ratio (Sheared): 0.5808	Area (Sheared): 0.0753	Perimeter (Sheared): 0.1846	Centroid_x (Sheared): 0.4898	Centroid_y (Sheared): 0.2026	Compactness (Sheared): 0.6505
+
+RoI 47:
+x (Original): 1.0000	y (Original): 0.7949	w (Original): 0.9062	h (Original): 0.7196	Aspect Ratio (Original): 0.3330	Area (Original): 0.7050	Perimeter (Original): 0.8097	Centroid_x (Original): 1.0000	Centroid_y (Original): 0.7810	Compactness (Original): 0.9184
+x (Translated): 1.0000	y (Translated): 0.7949	w (Translated): 0.9062	h (Translated): 0.7196	Aspect Ratio (Translated): 0.3330	Area (Translated): 0.7050	Perimeter (Translated): 0.8097	Centroid_x (Translated): 1.0000	Centroid_y (Translated): 0.7810	Compactness (Translated): 0.9184
+x (Rotated): 0.9693	y (Rotated): 0.8736	w (Rotated): 0.9062	h (Rotated): 0.7196	Aspect Ratio (Rotated): 0.3330	Area (Rotated): 0.7050	Perimeter (Rotated): 0.8097	Centroid_x (Rotated): 0.9642	Centroid_y (Rotated): 0.8470	Compactness (Rotated): 0.9184
+x (Scaled): 1.0000	y (Scaled): 0.7949	w (Scaled): 0.9062	h (Scaled): 0.7196	Aspect Ratio (Scaled): 0.3330	Area (Scaled): 0.7050	Perimeter (Scaled): 0.8097	Centroid_x (Scaled): 1.0000	Centroid_y (Scaled): 0.7791	Compactness (Scaled): 0.9184
+x (Sheared): 1.0000	y (Sheared): 0.8579	w (Sheared): 0.9062	h (Sheared): 0.7196	Aspect Ratio (Sheared): 0.3330	Area (Sheared): 0.7050	Perimeter (Sheared): 0.8097	Centroid_x (Sheared): 1.0000	Centroid_y (Sheared): 0.8274	Compactness (Sheared): 0.9184
+
+RoI 48:
+x (Original): 0.7883	y (Original): 0.2507	w (Original): 0.7138	h (Original): 0.0167	Aspect Ratio (Original): 0.8404	Area (Original): 0.1411	Perimeter (Original): 0.3631	Centroid_x (Original): 0.7881	Centroid_y (Original): 0.1833	Compactness (Original): 0.4144
+x (Translated): 0.7883	y (Translated): 0.2507	w (Translated): 0.7138	h (Translated): 0.0167	Aspect Ratio (Translated): 0.8404	Area (Translated): 0.1411	Perimeter (Translated): 0.3631	Centroid_x (Translated): 0.7881	Centroid_y (Translated): 0.1833	Compactness (Translated): 0.4144
+x (Rotated): 0.8713	y (Rotated): 0.2177	w (Rotated): 0.7138	h (Rotated): 0.0167	Aspect Ratio (Rotated): 0.8404	Area (Rotated): 0.1411	Perimeter (Rotated): 0.3631	Centroid_x (Rotated): 0.8349	Centroid_y (Rotated): 0.1614	Compactness (Rotated): 0.4144
+x (Scaled): 0.7883	y (Scaled): 0.2507	w (Scaled): 0.7138	h (Scaled): 0.0167	Aspect Ratio (Scaled): 0.8404	Area (Scaled): 0.1411	Perimeter (Scaled): 0.3631	Centroid_x (Scaled): 0.7881	Centroid_y (Scaled): 0.1742	Compactness (Scaled): 0.4144
+x (Sheared): 0.7581	y (Sheared): 0.3258	w (Sheared): 0.7138	h (Sheared): 0.0167	Aspect Ratio (Sheared): 0.8404	Area (Sheared): 0.1411	Perimeter (Sheared): 0.3631	Centroid_x (Sheared): 0.7581	Centroid_y (Sheared): 0.2412	Compactness (Sheared): 0.4144
+
+RoI 49:
+x (Original): 0.3930	y (Original): 0.6925	w (Original): 0.3726	h (Original): 0.5974	Aspect Ratio (Original): 0.1651	Area (Original): 0.2568	Perimeter (Original): 0.3781	Centroid_x (Original): 0.3988	Centroid_y (Original): 0.6716	Compactness (Original): 0.9861
+x (Translated): 0.3930	y (Translated): 0.6925	w (Translated): 0.3726	h (Translated): 0.5974	Aspect Ratio (Translated): 0.1651	Area (Translated): 0.2568	Perimeter (Translated): 0.3781	Centroid_x (Translated): 0.3988	Centroid_y (Translated): 0.6716	Compactness (Translated): 0.9861
+x (Rotated): 0.4231	y (Rotated): 0.5809	w (Rotated): 0.3726	h (Rotated): 0.5974	Aspect Ratio (Rotated): 0.1651	Area (Rotated): 0.2568	Perimeter (Rotated): 0.3781	Centroid_x (Rotated): 0.4136	Centroid_y (Rotated): 0.5996	Compactness (Rotated): 0.9861
+x (Scaled): 0.3930	y (Scaled): 0.6925	w (Scaled): 0.3726	h (Scaled): 0.5974	Aspect Ratio (Scaled): 0.1651	Area (Scaled): 0.2568	Perimeter (Scaled): 0.3781	Centroid_x (Scaled): 0.3995	Centroid_y (Scaled): 0.6687	Compactness (Scaled): 0.9861
+x (Sheared): 0.4128	y (Sheared): 0.6886	w (Sheared): 0.3726	h (Sheared): 0.5974	Aspect Ratio (Sheared): 0.1651	Area (Sheared): 0.2568	Perimeter (Sheared): 0.3781	Centroid_x (Sheared): 0.3893	Centroid_y (Sheared): 0.6698	Compactness (Sheared): 0.9861
+
+RoI 50:
+x (Original): 0.4460	y (Original): 0.5001	w (Original): 0.8790	h (Original): 1.0000	Aspect Ratio (Original): 0.2489	Area (Original): 0.8840	Perimeter (Original): 0.9143	Centroid_x (Original): 0.6128	Centroid_y (Original): 0.6555	Compactness (Original): 0.9866
+x (Translated): 0.4460	y (Translated): 0.5001	w (Translated): 0.8790	h (Translated): 1.0000	Aspect Ratio (Translated): 0.2489	Area (Translated): 0.8840	Perimeter (Translated): 0.9143	Centroid_x (Translated): 0.6128	Centroid_y (Translated): 0.6555	Compactness (Translated): 0.9866
+x (Rotated): 0.4434	y (Rotated): 0.5824	w (Rotated): 0.8790	h (Rotated): 1.0000	Aspect Ratio (Rotated): 0.2489	Area (Rotated): 0.8840	Perimeter (Rotated): 0.9143	Centroid_x (Rotated): 0.5876	Centroid_y (Rotated): 0.7237	Compactness (Rotated): 0.9866
+x (Scaled): 0.4460	y (Scaled): 0.5001	w (Scaled): 0.8790	h (Scaled): 1.0000	Aspect Ratio (Scaled): 0.2489	Area (Scaled): 0.8840	Perimeter (Scaled): 0.9143	Centroid_x (Scaled): 0.6342	Centroid_y (Scaled): 0.6763	Compactness (Scaled): 0.9866
+x (Sheared): 0.4494	y (Sheared): 0.5161	w (Sheared): 0.8790	h (Sheared): 1.0000	Aspect Ratio (Sheared): 0.2489	Area (Sheared): 0.8840	Perimeter (Sheared): 0.9143	Centroid_x (Sheared): 0.5947	Centroid_y (Sheared): 0.6592	Compactness (Sheared): 0.9866
+
+RoI 51:
+x (Original): 0.7406	y (Original): 0.2473	w (Original): 0.7212	h (Original): 0.0431	Aspect Ratio (Original): 0.7884	Area (Original): 0.1589	Perimeter (Original): 0.3800	Centroid_x (Original): 0.7582	Centroid_y (Original): 0.1888	Compactness (Original): 0.4565
+x (Translated): 0.7406	y (Translated): 0.2473	w (Translated): 0.7212	h (Translated): 0.0431	Aspect Ratio (Translated): 0.7884	Area (Translated): 0.1589	Perimeter (Translated): 0.3800	Centroid_x (Translated): 0.7582	Centroid_y (Translated): 0.1888	Compactness (Translated): 0.4565
+x (Rotated): 0.8263	y (Rotated): 0.2184	w (Rotated): 0.7212	h (Rotated): 0.0431	Aspect Ratio (Rotated): 0.7884	Area (Rotated): 0.1589	Perimeter (Rotated): 0.3800	Centroid_x (Rotated): 0.8057	Centroid_y (Rotated): 0.1699	Compactness (Rotated): 0.4565
+x (Scaled): 0.7406	y (Scaled): 0.2473	w (Scaled): 0.7212	h (Scaled): 0.0431	Aspect Ratio (Scaled): 0.7884	Area (Scaled): 0.1589	Perimeter (Scaled): 0.3800	Centroid_x (Scaled): 0.7605	Centroid_y (Scaled): 0.1809	Compactness (Scaled): 0.4565
+x (Sheared): 0.7124	y (Sheared): 0.3168	w (Sheared): 0.7212	h (Sheared): 0.0431	Aspect Ratio (Sheared): 0.7884	Area (Sheared): 0.1589	Perimeter (Sheared): 0.3800	Centroid_x (Sheared): 0.7279	Centroid_y (Sheared): 0.2422	Compactness (Sheared): 0.4565
+
+RoI 52:
+x (Original): 0.1068	y (Original): 0.5440	w (Original): 0.0596	h (Original): 0.5062	Aspect Ratio (Original): 0.0465	Area (Original): 0.0346	Perimeter (Original): 0.1161	Centroid_x (Original): 0.0937	Centroid_y (Original): 0.5386	Compactness (Original): 0.5656
+x (Translated): 0.1068	y (Translated): 0.5440	w (Translated): 0.0596	h (Translated): 0.5062	Aspect Ratio (Translated): 0.0465	Area (Translated): 0.0346	Perimeter (Translated): 0.1161	Centroid_x (Translated): 0.0937	Centroid_y (Translated): 0.5386	Compactness (Translated): 0.5656
+x (Rotated): 0.1665	y (Rotated): 0.3186	w (Rotated): 0.0596	h (Rotated): 0.5062	Aspect Ratio (Rotated): 0.0465	Area (Rotated): 0.0346	Perimeter (Rotated): 0.1161	Centroid_x (Rotated): 0.1353	Centroid_y (Rotated): 0.3835	Compactness (Rotated): 0.5656
+x (Scaled): 0.1068	y (Scaled): 0.5440	w (Scaled): 0.0596	h (Scaled): 0.5062	Aspect Ratio (Scaled): 0.0465	Area (Scaled): 0.0346	Perimeter (Scaled): 0.1161	Centroid_x (Scaled): 0.0920	Centroid_y (Scaled): 0.5378	Compactness (Scaled): 0.5656
+x (Sheared): 0.1286	y (Sheared): 0.5155	w (Sheared): 0.0596	h (Sheared): 0.5062	Aspect Ratio (Sheared): 0.0465	Area (Sheared): 0.0346	Perimeter (Sheared): 0.1161	Centroid_x (Sheared): 0.0743	Centroid_y (Sheared): 0.5181	Compactness (Sheared): 0.5656
+
